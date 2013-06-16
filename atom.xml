@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[niuyniuy.com]]></title>
+  <title><![CDATA[牛言牛语]]></title>
   <link href="http://niuyniuy.github.io/atom.xml" rel="self"/>
   <link href="http://niuyniuy.github.io/"/>
-  <updated>2013-06-15T01:42:35+08:00</updated>
+  <updated>2013-06-16T16:39:03+08:00</updated>
   <id>http://niuyniuy.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[niuyniuy.com]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[how about tags]]></title>
+    <link href="http://niuyniuy.github.io/blog/2013/06/16/how-about-tags/"/>
+    <updated>2013-06-16T14:36:00+08:00</updated>
+    <id>http://niuyniuy.github.io/blog/2013/06/16/how-about-tags</id>
+    <content type="html"><![CDATA[<p>test tags ,see see how it works</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[如果是中文]]></title>
+    <link href="http://niuyniuy.github.io/blog/2013/06/16/ru-guo-shi-zhong-wen/"/>
+    <updated>2013-06-16T02:02:00+08:00</updated>
+    <id>http://niuyniuy.github.io/blog/2013/06/16/ru-guo-shi-zhong-wen</id>
+    <content type="html"><![CDATA[<p>中文标题的url转换惊艳了我，细节上做的，没话说。爱上你了。中文标题的url转换惊艳了我，细节上做的，没话说。爱上你了。中文标题的url转换惊艳了我，细节上做的，没话说。爱上你了。中文标题的url转换惊艳了我，细节上做的，没话说。爱上你了。中文标题的url转换惊艳了我，细节上做的，没话说。爱上你了。中文标题的url转换惊艳了我，细节上做的，没话说。爱上你了。中文标题的url转换惊艳了我，细节上做的，没话说。爱上你了。中文标题的url转换惊艳了我，细节上做的，没话说。爱上你了。中文标题的url转换惊艳了我，细节上做的，没话说。爱上你了。中文标题的url转换惊艳了我，细节上做的，没话说。爱上你了。中文标题的url转换惊艳了我，细节上做的，没话说。爱上你了。中文标题的url转换惊艳了我，细节上做的，没话说。爱上你了。中文标题的url转换惊艳了我，细节上做的，没话说。爱上你了。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[say somthing]]></title>
+    <link href="http://niuyniuy.github.io/blog/2013/06/16/say-somthing/"/>
+    <updated>2013-06-16T01:59:00+08:00</updated>
+    <id>http://niuyniuy.github.io/blog/2013/06/16/say-somthing</id>
+    <content type="html"><![CDATA[<p>say sth about octopress vs hexo.</p>
+]]></content>
+  </entry>
   
 </feed>
