@@ -5,11 +5,11 @@
 	<!--<script data-cfasync="false" type="text/javascript" src="//use.typekit.net/axj3cfp.js"></script>-->
 	<!--<script data-cfasync="false" type="text/javascript">try{Typekit.load();}catch(e){}</script>-->
 	<meta charset="utf-8">
-	<title>Category: test  | 牛言牛语</title>
+	<title>octopress 还是 hexo  | 牛言牛语</title>
 
 <meta name="author" content="niuyniuy.com"> 
 
-<meta name="description" content="Category: test"> <meta name="keywords" content="">
+<meta name="description" content="一头牛的耕耘志"> <meta name="keywords" content="">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -95,29 +95,85 @@ $(document).ready(
 
 </header>
 
-	<div id="content" class="inner">
+	<div id="content" class="inner"><article class="post">
+	<h2 class="title">Octopress 还是 Hexo</h2>
+	<div class="entry-content"><h3><strong>题外话</strong></h3>
+
+<p>我想我是太懒了，想搭博客，又懒得管理，这不，就找来<a href="http://github.com/">github</a>给我管着博客，还不收钱。</p>
+
+<h3><strong>干货区</strong></h3>
+
+<p>谈谈博客的细节吧</p>
+
+<ul>
+<li>DNS: <a href="http://dnspod.cn/">DNSPod</a></li>
+<li>评论系统: <a href="http://disqus.com/">Disqus</a></li>
+<li>博客框架: <a href="http://octopress.org/">octopress</a></li>
+<li>博客主题: <a href="https://github.com/macjasp/cleanpress">cleanpress</a> (自己做了小小的修改)</li>
+<li>托管: <a href="http://github.com/">Github</a></li>
+</ul>
+
+
+<h3><strong>进入主题</strong></h3>
+
+<p>其实在选择博客框架的时候有一番思考，因为<a href="http://zespia.tw/hexo/zh-CN/">hexo</a>在另一端闪耀着。两者优缺点：</p>
+
+<ul>
+<li><strong>octopress</strong>: 社区和插件支持占优，致命缺点，generate时龟速</li>
+<li><strong>hexo</strong>: generate神速，发布简单，布署简单</li>
+</ul>
+
+
+<p>hexo基于<a href="http://nodejs.org/">node.js</a>编写，速度上给人一种享受。且作者来自台湾，本应支持同胞。
+但我真是太懒了，不想用默认的主题，又不想自己折腾，看到octopress丰富的主题和插件支持，竟然心动了，选了一款心怡的就用上了。然后顺理成章的把域名一绑定，就发布了。</p>
+
+<h3><strong>小结</strong></h3>
+
+<p><a href="http://octopress.org/">octopress</a>还是<a href="http://zespia.tw/hexo/zh-CN/">hexo</a>？我给不出答案。我想选择没有对错，只是，你是否坚定呢?</p>
+</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-06-18T14:50:00+08:00" pubdate data-updated="true">Jun 18<span>th</span>, 2013</time></div>
+	<div class="tags">
+
+
+	<a class='category' href='/blog/categories/blog/'>Blog</a>
+
+
+</div>
 	
+</div></article>
 
-
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
 	
 	
-	<section class="archives"><h1 class="year">2013</h1>
-
-<article>
-	<h2 class="title"><a href="/blog/2013/06/16/how-about-tags/">how about tags</a></h2>
-	<div class="meta">
-		<span class="date">Jun 16</span>
-		<span class="tags">
-
-
-	<a class='category' href='/blog/categories/test/'>test</a>
-
-
-</span>
-	    
+	
+<!---	<a class="addthis_counter addthis_pill_style"></a> --->
 	</div>
-</article>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+</div>
 
+
+
+<section id="comment">
+    <h2 class="title">Comments</h2>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+</section>
 </div>
 	<footer id="footer" class="inner">Copyright &copy; 2013
 
@@ -139,7 +195,10 @@ Powered by <a href="http://octopress.org">Octopress.</a>
       var disqus_shortname = 'niuyniuy';
       
         
-        var disqus_script = 'count.js';
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://niuyniuy.github.io/blog/2013/06/18/octopress-or-hexo/';
+        var disqus_url = 'http://niuyniuy.github.io/blog/2013/06/18/octopress-or-hexo/';
+        var disqus_script = 'embed.js';
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
