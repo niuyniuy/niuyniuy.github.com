@@ -16,6 +16,7 @@ categories: Blog
   * 博客框架: [octopress](http://octopress.org/)
   * 博客主题: [cleanpress](https://github.com/macjasp/cleanpress) (自己做了小小的修改)
   * 托管: [Github](http://github.com/)
+  * 数据统计: [Google Analytics](http://www.google.cn/intl/zh-CN/analytics/)
 
 ### **进入主题**
 其实在选择博客框架的时候有一番思考，因为[hexo](http://zespia.tw/hexo/zh-CN/)在另一端闪耀着。两者优缺点：
@@ -27,4 +28,4 @@ hexo基于[node.js](http://nodejs.org/)编写，速度上给人一种享受。�
 但我真是太懒了，不想用默认的主题，又不想自己折腾，看到octopress丰富的主题和插件支持，竟然心动了，选了一款心怡的就用上了。然后顺理成章的把域名一绑定，就发布了。
 
 ### **小结**
-[octopress](http://octopress.org/)还是[hexo](http://zespia.tw/hexo/zh-CN/)？我给不出答案。我想选择没有对错，只是，你是否坚定呢?
+[octopress](http://octopress.org/)还是[hexo](http://zespia.tw/hexo/zh-CN/)？或许本就没有答案。只是，你是否坚定呢?
